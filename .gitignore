@@ -1,0 +1,9 @@
+assets/*
+app/runtime/*
+app/config/db.php
+nbproject/*
+uploads/*
+.settings/*
+.settings
+.project
+/.idea/
